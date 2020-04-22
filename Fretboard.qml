@@ -1,3 +1,4 @@
+//Copyright 2020 Sunny090628
 import QtQuick 2.6
 import QtQuick.Controls 2.1
 import QtQuick.Window 2.2
